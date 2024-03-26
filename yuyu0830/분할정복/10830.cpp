@@ -2,9 +2,8 @@
 
 using namespace std;
 
-#define POW(a) a * a
-
 int n = 0;
+long long int b = 0;
 
 int crit[5][5], arr[5][5], tmp[5][5];
 
@@ -22,18 +21,15 @@ int calc(int x, int y, bool e) {
 
 void DoublingAdding(bool e) {
     // 행렬의 각 위치별로 곱연산 시행
-    for (int i = 0; i < n; i++) {
-        for (int j = 0; j < n; j++) {
+    for (int i = 0; i < n; i++) 
+        for (int j = 0; j < n; j++) 
             tmp[i][j] = calc(i, j, e);
-        }
-    }
 
     // tmp 배열 복사
     copy(&tmp[0][0], &tmp[0][0] + 25, &arr[0][0]);
 }
 
 int main() {
-    long long int b = 0;
     cin >> n >> b;
 
     for (int i = 0; i < n; i++) {
@@ -43,25 +39,20 @@ int main() {
         }
     }
 
-    bool e[200];
-    int cnt = 0;
+    long long int pointer = 137438953472; // 2^38
 
-    // 제곱할 수 b 분해
-    while (b != 1) {
-        if (b % 2 == 0) {
-            b /= 2;
-            e[cnt] = 1;
-        }
-        else {
-            b -= 1;
-            e[cnt] = 0;
-        }
-        cnt++;
-    }
+    // b와 비교할 수 있는 위치로 포인터 세팅
+    while (!(b & pointer)) pointer = pointer >> 1; 
+    pointer = pointer >> 1;
 
-    for (int i = cnt - 1; i >= 0; i--) {
-        // 분해한 b를 토대로 Doubling 혹은 Adding 실행
-        DoublingAdding(e[i]);
+    // 앞에서부터 bit 연산으로 1인지 0인지 판단
+    while (pointer) {
+        DoublingAdding(1);
+
+        if (b & pointer) // 1이면 Adding 연산 추가 수행
+            DoublingAdding(0);
+            
+        pointer = pointer >> 1; // bit Shift
     }
 
     for (int i = 0; i < n; i++) {
