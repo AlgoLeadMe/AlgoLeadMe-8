@@ -5,4 +5,5 @@
 | 1차시 | 2024.03.11 |  탐색  | [웜홀](https://www.acmicpc.net/problem/1865)  | - |
 | 2차시 | 2024.03.15 |  탐색  | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)  | - |
 | 3차시 | 2024.03.20 |  탐색  | [하이퍼 토마토](https://www.acmicpc.net/problem/17114)  | - |
+| 4차시 | 2024.03.26 |  분할정복  | [행렬 제곱](https://www.acmicpc.net/problem/10830)  | - |
 ---
