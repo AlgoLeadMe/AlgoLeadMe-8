@@ -15,8 +15,10 @@ struct cmp {
     bool operator()(edge a, edge b) { return a.value > b.value; }
 };
 
-int parent[1001] = {0, };
 bool manOnly[1001] = {0, };
+
+// Union-Find Function
+int parent[1001] = {0, };
 
 int find(int v) {
     if (parent[v] == v) return v;
@@ -60,12 +62,15 @@ int main() {
         int v1 = tmp.vertex1;
         int v2 = tmp.vertex2;
 
+        // is cycle created? Then pass this edge
         if (isUnion(v1, v2)) continue;
 
+        // add this edge
         merge(v1, v2);
         cnt++;
         ans += tmp.value;
 
+        // if all Vertex visited
         if (cnt == n) {
             printf("%d\n", ans);
             return 0;
