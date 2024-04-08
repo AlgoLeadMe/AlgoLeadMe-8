@@ -8,7 +8,4 @@
 | 4차시 | 2024.03.25 |   BFS  | [바이러스](https://www.acmicpc.net/problem/2606) | [#17](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/17)|
 | 5차시 | 2024.03.30 |   MST  | [최소스패닝트리](https://www.acmicpc.net/problem/1197) | [#21](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/21)|
 | 6차시 | 2024.04.04 |  backtracking  | [스타트와링크](https://www.acmicpc.net/problem/14889) | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/29)|
-
-
-
 ---
