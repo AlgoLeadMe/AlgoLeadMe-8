@@ -8,6 +8,7 @@
 | 4차시 | 2024.03.25 |  다익스트라  | [파티](https://www.acmicpc.net/problem/1238)  | [#4](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/15)|
 | 5차시 | 2024.03.27 |  DP  | [RGB거리2](https://www.acmicpc.net/problem/17404)  | [#5](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/19)]
 | 6차시 | 2024.04.01 |  최소신장트리  | [행성 터널](https://www.acmicpc.net/problem/2887)  | [#6](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/24)]
-| 7차시 | 2024.04.04 |  스택  | [문자열 폭발](https://www.acmicpc.net/problem/9935)  | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/19)]
+| 7차시 | 2024.04.04 |  스택  | [문자열 폭발](https://www.acmicpc.net/problem/9935)  | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/28)]
+| 8차시 | 2024.04.09 |  투 포인터  | [두 용액](https://www.acmicpc.net/problem/2470)  | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/28)]
 =======
 ---
