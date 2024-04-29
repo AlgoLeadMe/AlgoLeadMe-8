@@ -8,4 +8,5 @@
 | 4차시 | 2024.03.26 |  분할정복  | [행렬 제곱](https://www.acmicpc.net/problem/10830)  | - |
 | 5차시 | 2024.03.29 |  탐색  | [스도쿠](https://www.acmicpc.net/problem/2239)  | - |
 | 6차시 | 2024.04.03 |  자료구조  | [나만 안되는 연애](https://www.acmicpc.net/problem/14621)  | - |
+| 10차시| 2024.04.29 |  백트래킹  | [비숍](https://www.acmicpc.net/problem/1799)  | - |
 ---
