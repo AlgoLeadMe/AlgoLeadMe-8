@@ -9,8 +9,3 @@
 | 5차시 | 2024.03.30 |  mst  | [최소스패닝트리](https://www.acmicpc.net/problem/1197) | [#21](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/21)|
 | 6차시 | 2024.04.04 |  backtracking  | [스타트와링크](https://www.acmicpc.net/problem/14889) | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/29)|
 | 7차시 | 2024.04.08 |  backtracking  | [n과m(5)](https://www.acmicpc.net/problem/15654) | [#31](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/31)|
-
-
-
-
-
