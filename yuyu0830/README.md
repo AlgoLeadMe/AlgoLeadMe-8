@@ -9,3 +9,4 @@
 | 5차시 | 2024.03.29 |  탐색  | [스도쿠](https://www.acmicpc.net/problem/2239)  | - |
 | 6차시 | 2024.04.03 |  자료구조  | [나만 안되는 연애](https://www.acmicpc.net/problem/14621)  | - |
 | 7차시 | 2024.04.04 |  저울  | [저울](https://www.acmicpc.net/problem/2437)  | - |
+| 13차시 | 2024.05.21 |  가장 긴 증가하는 부분 수열 2  | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)  | - |
