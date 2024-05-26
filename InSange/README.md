@@ -15,6 +15,7 @@
 | 11차시 | 2024.05.03 |  DFS  | [숫자고르기](https://www.acmicpc.net/problem/2668)  | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/41]
 | 12차시 | 2024.05.08 |  DP  | [전깃줄](https://www.acmicpc.net/problem/2565)  | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/46)]
 | 13차시 | 2024.05.22 |  BFS  | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)  | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/53)]
-| 14차시 | 2024.05.27 |  투 포인터  | [포도주 시음](https://www.acmicpc.net/problem/31589)  | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/28)]
+| 14차시 | 2024.05.27 |  투 포인터  | [포도주 시음](https://www.acmicpc.net/problem/31589)  | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/56)]
+| 15차시 | 2024.05.27 |  정렬  | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497)  | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/57)]
 =======
 ---
