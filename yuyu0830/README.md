@@ -9,5 +9,6 @@
 | 5차시 | 2024.03.29 |  탐색  | [스도쿠](https://www.acmicpc.net/problem/2239)  | - |
 | 6차시 | 2024.04.03 |  자료구조  | [나만 안되는 연애](https://www.acmicpc.net/problem/14621)  | - |
 | 7차시 | 2024.04.04 |  저울  | [저울](https://www.acmicpc.net/problem/2437)  | - |
-| 10차시| 2024.04.29 |  백트래킹  | [비숍](https://www.acmicpc.net/problem/1799)  | - |
+| 10차시 | 2024.04.29 |  백트래킹  | [비숍](https://www.acmicpc.net/problem/1799)  | - |
+| 16차시 | 2024.06.04 |  별자리 만들기  | [별자리 만들기](https://www.acmicpc.net/problem/4386)  | - |
 ---
