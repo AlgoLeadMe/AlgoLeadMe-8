@@ -14,4 +14,5 @@
 | 10차시| 2024.04.29 |  백트래킹  | [비숍](https://www.acmicpc.net/problem/1799)  | - |
 | 11차시| 2024.05.08 |  그리디  | [연료 채우기](https://www.acmicpc.net/problem/1826)  | - |
 | 12차시| 2024.05.13 |  해시  | [두 배열의 합](https://www.acmicpc.net/problem/2143)  | - |
+| 13차시| 2024.05.21 |  LIS  | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)  | - |
 ---
