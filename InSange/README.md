@@ -9,5 +9,9 @@
 | 5차시 | 2024.03.27 |  DP  | [RGB거리2](https://www.acmicpc.net/problem/17404)  | [#5](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/19)]
 | 6차시 | 2024.04.01 |  최소신장트리  | [행성 터널](https://www.acmicpc.net/problem/2887)  | [#6](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/24)]
 | 7차시 | 2024.04.04 |  스택  | [문자열 폭발](https://www.acmicpc.net/problem/9935)  | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/28)]
-| 8차시 | 2024.04.09 |  투 포인터  | [두 용액](https://www.acmicpc.net/problem/2470)  | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/28)]
+| 8차시 | 2024.04.09 |  투 포인터  | [두 용액](https://www.acmicpc.net/problem/2470)  | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/32)]
+| 9차시 | 2024.04.12 |  힙  | [Top K Frequent Words](https://leetcode.com/submissions/detail/1180988760/)  | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/28)]
+| 10차시 | 2024.04.30 |  스택  | [오아시스 재결합](https://www.acmicpc.net/problem/3015)  | [#10](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/40)]
+| 11차시 | 2024.05.03 |  DFS  | [숫자고르기](https://www.acmicpc.net/problem/2668)  | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/41)]
+| 12차시 | 2024.05.08 |  DP  | [전깃줄](https://www.acmicpc.net/problem/2565)  | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/46)]
 ---
