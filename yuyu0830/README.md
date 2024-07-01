@@ -9,5 +9,9 @@
 | 5차시 | 2024.03.29 |  탐색  | [스도쿠](https://www.acmicpc.net/problem/2239)  | - |
 | 6차시 | 2024.04.03 |  자료구조  | [나만 안되는 연애](https://www.acmicpc.net/problem/14621)  | - |
 | 7차시 | 2024.04.04 |  저울  | [저울](https://www.acmicpc.net/problem/2437)  | - |
+| 8차시 | 2024.04.11 |  그리디  | [보석도둑](https://www.acmicpc.net/problem/1202)  | - |
+| 9차시 | 2024.04.12 |  정렬  | [알고리즘 수업 - 버블 정렬 3](https://www.acmicpc.net/problem/23970)  | - |
 | 10차시| 2024.04.29 |  백트래킹  | [비숍](https://www.acmicpc.net/problem/1799)  | - |
+| 11차시| 2024.05.08 |  그리디  | [연료 채우기](https://www.acmicpc.net/problem/1826)  | - |
+| 12차시| 2024.05.13 |  해시  | [두 배열의 합](https://www.acmicpc.net/problem/2143)  | - |
 ---
