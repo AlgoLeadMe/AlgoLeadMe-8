@@ -10,4 +10,5 @@
 | 6차시 | 2024.04.03 |  자료구조  | [나만 안되는 연애](https://www.acmicpc.net/problem/14621)  | - |
 | 7차시 | 2024.04.04 |  저울  | [저울](https://www.acmicpc.net/problem/2437)  | - |
 | 10차시| 2024.04.29 |  백트래킹  | [비숍](https://www.acmicpc.net/problem/1799)  | - |
+| 15차시| 2024.06.01 |  기하  | [다각형의 면적](https://www.acmicpc.net/problem/2166)  | - |
 ---
