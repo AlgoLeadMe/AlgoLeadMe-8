@@ -18,4 +18,5 @@
 | 14차시 | 2024.05.27 |  투 포인터  | [포도주 시음](https://www.acmicpc.net/problem/31589)  | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/56)]
 | 15차시 | 2024.05.27 |  정렬  | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497)  | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/57)]
 | 16차시 | 2024.06.28 |  그래프  | [Maximum_Total_Importance_ofRoads](https://leetcode.com/problems/maximum-total-importance-of-roads/)  | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/63)]
+| 17차시 | 2024.06.28 |  문자열  | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [#17](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/64)]
 ---
