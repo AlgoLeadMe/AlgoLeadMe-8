@@ -16,4 +16,6 @@
 | 12차시| 2024.05.13 |  해시  | [두 배열의 합](https://www.acmicpc.net/problem/2143)  | - |
 | 13차시| 2024.05.21 |  LIS  | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)  | - |
 | 14차시| 2024.07.02 |  위상정렬  | [ACM Craft](https://www.acmicpc.net/problem/1005)  | - |
+| 15차시| 2024.06.01 |  기하  | [다각형의 면적](https://www.acmicpc.net/problem/2166)  | - |
+| 16차시| 2024.06.04 |  별자리 만들기  | [별자리 만들기](https://www.acmicpc.net/problem/4386)  | - |
 ---
