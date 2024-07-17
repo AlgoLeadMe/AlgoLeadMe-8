@@ -20,5 +20,8 @@
 | 16차시 | 2024.06.28 |  그래프  | [Maximum_Total_Importance_ofRoads](https://leetcode.com/problems/maximum-total-importance-of-roads/)  | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/63)]
 | 17차시 | 2024.06.28 |  문자열  | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [#17](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/64)]
 | 18차시 | 2024.07.10 |  문자열  | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)  | [#18](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/64)]
-| 19차시 | 2024.07.13 |  스택  | [Crawler Log Folder](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)  | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/64)]
+| 19차시 | 2024.07.13 |  스택  | [Crawler Log Folder](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)  | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/72)]
+| 20차시 | 2024.07.17 |  스택  | [Robot Collisions](https://leetcode.com/problems/robot-collisions/)  | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/74)]
 ---
+
+https://leetcode.com/problems/robot-collisions/
