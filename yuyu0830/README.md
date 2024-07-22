@@ -17,5 +17,5 @@
 | 13차시| 2024.05.21 |  LIS  | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)  | - |
 | 15차시| 2024.06.01 |  기하  | [다각형의 면적](https://www.acmicpc.net/problem/2166)  | - |
 | 16차시 | 2024.06.04 |  MST  | [별자리 만들기](https://www.acmicpc.net/problem/4386)  | - |
-| 20차시 | 2024.07.22 |  LIS  | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/4386)  | - |
+| 20차시 | 2024.07.22 |  LIS  | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)  | - |
 ---
