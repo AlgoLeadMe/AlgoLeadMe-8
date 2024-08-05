@@ -14,6 +14,9 @@
 | 10차시 | 2024.05.07 |    수학    |     [연속 합](https://www.acmicpc.net/problem/2737)     | [#10](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/43) |
 | 11차시 | 2024.05.07 |     DP     |     [합분해](https://www.acmicpc.net/problem/2225)      | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/44) |
 | 12차시 | 2024.05.13 | 브루트포스 |   [암호만들기](https://www.acmicpc.net/problem/1759)    | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/50) |
-| 13차시 | 2024.05.23 |  분할정복  | [피보나치 수 6](https://www.acmicpc.net/problem/11444)  | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/54) |
+| 13차시 | 2024.05.23 |  분할정복  | [피보나치 수 6](https://www.acmicpc.net/problem/11444)  | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/55) |
+| 14차시 | 2024.05.28 |     큐     | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/58) |
+| 15차시 | 2024.06.01 |     큐     |  [중앙값 구하기](https://www.acmicpc.net/problem/2696)  | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/61) |
+| 16차시 | 2024.07.04 |     DP     |     [연속합](https://www.acmicpc.net/problem/1912)      | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/66) |
 
 ---
