@@ -22,4 +22,5 @@
 | 18차시 | 2024.07.06 |  구현  | [2048 (Easy)](https://www.acmicpc.net/problem/12100)  | - |
 | 19차시 | 2024.07.12 |  재귀  | [우수마을](https://www.acmicpc.net/problem/1949)  | - |
 | 20차시 | 2024.07.22 |  LIS  | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)  | - |
+| 22차시 | 2024.08.05 |  DP  | [계단 수](https://www.acmicpc.net/problem/1562)  | - |
 ---
