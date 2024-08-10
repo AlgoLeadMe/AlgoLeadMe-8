@@ -27,6 +27,7 @@
 | 23차시 | 2024.08.03 |  슬라이딩 윈도우  | [Minimum Swaps to Group All 1's Together 2](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)  | [#23](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/82)]
 | 24차시 | 2024.08.04 |  BFS  | [트리](https://www.acmicpc.net/problem/1068)  | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/83)]
 | 25차시 | 2024.08.10 |  BFS  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)  | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/87)]
+| 26차시 | 2024.08.11 |  수학  | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)  | [#26](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/89)]
 ---
 
 https://leetcode.com/problems/robot-collisions/
