@@ -8,7 +8,6 @@ using namespace std;
 
 int n, m;
 int enter[NUM] = {0, };
-bool visited[NUM] = {0, };
 
 vector<int> rule[NUM];
 
@@ -26,10 +25,8 @@ int main() {
     vector<int> ans;
 
     for (int i = 1; i <= n; i++) {
-        if (!enter[i]) {
+        if (!enter[i]) 
             empty.push(i);
-            visited[i] = true;
-        }
     }
 
     while (!empty.empty()) {
@@ -41,14 +38,11 @@ int main() {
         for (int i : rule[cur]) {
             enter[i]--;
 
-            if (!enter[i]) {
+            if (!enter[i]) 
                 empty.push(i);
-                visited[i] = true;
-            }
         }
     }
 
-    for (int i : ans) {
+    for (int i : ans) 
         printf("%d ", i);
-    }
 } 
