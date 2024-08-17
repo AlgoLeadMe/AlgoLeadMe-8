@@ -23,4 +23,5 @@
 | 19차시 | 2024.07.12 |  재귀  | [우수마을](https://www.acmicpc.net/problem/1949)  | - |
 | 20차시 | 2024.07.22 |  LIS  | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)  | - |
 | 21차시 | 2024.07.23 |  수학  | [1의 개수 세기](https://www.acmicpc.net/problem/9527)  | - |
+| 25차시 | 2024.08.17 |  수학  | [신기한 소수](https://www.acmicpc.net/problem/2023)  | - |
 ---
