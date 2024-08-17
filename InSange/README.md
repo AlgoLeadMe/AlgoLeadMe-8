@@ -22,6 +22,10 @@
 | 18차시 | 2024.07.10 |  문자열  | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)  | [#18](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/64)]
 | 19차시 | 2024.07.13 |  스택  | [Crawler Log Folder](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)  | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/72)]
 | 20차시 | 2024.07.17 |  스택  | [Robot Collisions](https://leetcode.com/problems/robot-collisions/)  | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/74)]
+| 21차시 | 2024.07.21 |  그리디  | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)  | [#21](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/75)]
+| 22차시 | 2024.07.31 |  DP  | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)  | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/81)]
+| 23차시 | 2024.08.03 |  슬라이딩 윈도우  | [Minimum Swaps to Group All 1's Together 2](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)  | [#23](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/82)]
+| 24차시 | 2024.08.04 |  BFS  | [트리](https://www.acmicpc.net/problem/1068)  | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/83)]
 ---
 
 https://leetcode.com/problems/robot-collisions/
