@@ -28,6 +28,7 @@
 | 24차시 | 2024.08.04 |  BFS  | [트리](https://www.acmicpc.net/problem/1068)  | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/83)]
 | 25차시 | 2024.08.10 |  BFS  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)  | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/87)]
 | 26차시 | 2024.08.11 |  수학  | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)  | [#26](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/89)]
+| 27차시 | 2024.08.17 |  문자열  | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)  | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/91)]
 ---
 
 https://leetcode.com/problems/robot-collisions/
