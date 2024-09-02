@@ -23,5 +23,7 @@
 | 19차시 | 2024.07.12 |  재귀  | [우수마을](https://www.acmicpc.net/problem/1949)  | - |
 | 20차시 | 2024.07.22 |  LIS  | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)  | - |
 | 21차시 | 2024.07.23 |  수학  | [1의 개수 세기](https://www.acmicpc.net/problem/9527)  | - |
+| 22차시 | 2024.08.05 |  DP  | [계단 수](https://www.acmicpc.net/problem/1562)  | - |
+| 23차시 | 2024.08.05 |  LCS  | [LCS 2](https://www.acmicpc.net/problem/9252)  | - |
 | 24차시 | 2024.08.14 |  위상정렬  | [줄 세우기](https://www.acmicpc.net/problem/2252)  | - |
 ---
