@@ -31,6 +31,7 @@
 | 27차시 | 2024.08.17 |  문자열  | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)  | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/91)]
 | 28차시 | 2024.08.21 |  백트래킹 | [월드컵](https://www.acmicpc.net/problem/6987)  | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/94)]
 | 29차시 | 2024.08.25 |  문자열 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)  | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/98)]
+| 30차시 | 2024.09.06 |  문자열 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)  | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/100)]
 ---
 
 https://leetcode.com/problems/robot-collisions/
