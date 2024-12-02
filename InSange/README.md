@@ -33,7 +33,5 @@
 | 29차시 | 2024.08.25 |  문자열 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)  | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/98)]
 | 30차시 | 2024.09.06 |  문자열 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)  | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/100)]
 | 31차시 | 2024.12.01 |  DFS | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)  | [#31](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/101)]
+| 32차시 | 2024.12.03 |  BFS | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)  | [#32](https://github.com/AlgoLeadMe/AlgoLeadMe-8/pull/102)]
 ---
-
-https://leetcode.com/problems/robot-collisions/
-Find the Closest Palindrome
