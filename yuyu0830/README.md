@@ -27,4 +27,5 @@
 | 23차시 | 2024.08.05 |  LCS  | [LCS 2](https://www.acmicpc.net/problem/9252)  | - |
 | 24차시 | 2024.08.14 |  위상정렬  | [줄 세우기](https://www.acmicpc.net/problem/2252)  | - |
 | 25차시 | 2024.08.17 |  수학  | [신기한 소수](https://www.acmicpc.net/problem/2023)  | - |
+| 26차시 | 2024.08.20 |  기하  | [선분 그룹](https://www.acmicpc.net/problem/2162)  | - |
 ---
